@@ -1,6 +1,5 @@
-# hello-world
+# Function to find duplicates in Lists
 
-#Function to find duplicates from 2 lists
 
 def duplicates(a, b):
   a = [1, 2, 3, 4, ]
